@@ -1,0 +1,9 @@
+notas sobre los notebooks
+
+- las redes recurrentes son para series de tiempo
+pero tardan mucho
+
+- las primeras tres clases sobre procesamiento natural
+del lenguaje (a partir de la clase 7) son la evolucion 
+de las redes neuronales para PNL, la ultima clase
+ya es con los transformers (ultimo notebook de PNL)
